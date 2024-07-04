@@ -3,19 +3,21 @@
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ## Education
-- BSc., Computer Science | The University of Birmingham, UK
+- BSc., Computer Science | The University of Birmingham, UK  
   (_July 2022, Grade: First-Class Honours_)								       		
-- Cambridge Higher School Certificate, Maths & Science	| Royal College Curepipe, MU
+- Cambridge Higher School Certificate, Maths & Science	| Royal College Curepipe, MU  
   (_November 2017, Grade: 3.8 GPA_)	 			        		
-- Cambridge School Certificate, Maths & Science | Royal College Curepipe
+- Cambridge School Certificate, Maths & Science | Royal College Curepipe  
   (_November 2015_)
+
+  ---
 
 ## Work Experience
 **Fullstack Web Developer @ Kóryos (_June 2022 - Present_)**
 - Managed website development from planning to deployment
 - Used **HTML, CSS, and Javascript** to develop the front end and **Spring, Django, Java, SQL, and Python** for the back end. I also used WordPress and Elementor on some projects.
 - Designed and coded responsive, user-friendly interfaces, maintained and optimized websites, ensuring functionality, performance, and database security.
-- Here are some websites I have developed: LondonDoctors(https://uld.london), OilTrading(https://highproof-kw.com/), ConsultationCA(https://dallata.ca) 
+- Here are some websites I have developed: [UrgentLondonDoctors](https://uld.london), [KuwaitOilTrading](https://highproof-kw.com/), [ConsultationCA](https://dallata.ca) 
 
 **AI Researcher @ University of Birmingham (_April 2022 - April 2024_)**
 - Conducted data collection, processing, and analysis for a novel study evaluating the impact of COVID-19 on aviation companies.

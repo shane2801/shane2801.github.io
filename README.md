@@ -12,12 +12,13 @@
 
 ## Work Experience
 **Fullstack Web Developer @ Kóryos (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+-Managed website development from planning to deployment, using HTML, CSS, JS, and WP.
+-Designed and coded responsive, user-friendly interfaces, maintained and optimized websites, ensuring functionality, performance, and database security.
+-Here are some websites I have developed: LondonDoctors(https://uld.london), OilTrading(https://highproof-kw.com/), ConsultationCA(https://dallata.ca) 
 
 **AI Researcher @ University of Birmingham (_April 2022 - April 2024_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+- Conducted data collection, processing, and analysis for a novel study evaluating the impact of COVID-19 on aviation companies.
+- Applied unsupervised deep learning approaches to tweets about the top 10 busiest airports to uncover hidden insights
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees

@@ -3,11 +3,11 @@
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ## Education
-- BSc., Computer Science | The University of Birmingham, 🇬🇧  
+- BSc., Computer Science | The University of Birmingham, :england:  
   (_July 2022, Grade: First-Class Honours_)								       		
-- Cambridge Higher School Certificate, Maths & Science	| Royal College Curepipe, 🇲🇺  
+- Cambridge Higher School Certificate, Maths & Science	| Royal College Curepipe, :mauritius:  
   (_November 2017, Grade: 3.8 GPA_)	 			        		
-- Cambridge School Certificate, Maths & Science | Royal College Curepipe, 🇲🇺  
+- Cambridge School Certificate, Maths & Science | Royal College Curepipe, :mauritius:  
   (_November 2015_)
 
   ---

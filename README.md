@@ -11,7 +11,7 @@
   
   ---
 
-## Work Experience
+## Work Experience 💼
 **Fullstack Web Developer @ Kóryos (_June 2022 - Present_)**
 - Managed website development from planning to deployment
 - Used **HTML, CSS, and Javascript** to develop the front end and **Spring, Django, Java, SQL, and Python** for the back end. I also used WordPress and Elementor on some projects.
@@ -24,7 +24,7 @@
 
 ---
 
-## Projects
+## Projects 📑
 ### Automated the analysis of Patient Experience for the NHS using data analysis and machine learning(Natural Language Processing)
 [Publication](https://kavishmuthoora.notion.site/Data-analysis-of-NHS-patient-reviews-using-Artificial-Intelligence-f080c0a68b8d482cb041b481b5345134)
 

@@ -4,11 +4,9 @@
 
 ## Education
 <code style="color : lightskyblue">BSc Computer Science</code> | **The University of Birmingham,󠁧󠁢󠁥󠁮 UK** (2022)  
-Grade: First-Class Honours
-
+Grade: First-Class Honours  
 <code style="color : lightskyblue">Cambridge Higher School Certificate</code>	| **Royal College Curepipe, MU** (2017)  
-Grade: 3.8 GPA
-
+Grade: 3.8 GPA  
 <code style="color : lightskyblue">Cambridge School Certificate</code> | **Royal College Curepipe, MU** (2015)  
   
   ---

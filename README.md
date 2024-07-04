@@ -6,7 +6,7 @@
 **<span style="color : #267CB9;">BSc Computer Science</span>** | **The University of Birmingham,󠁧󠁢󠁥󠁮 UK** (_2022_)  
 **<span style="color : green">Grade: First-Class Honours</span>**  
 **<span style="color : #267CB9;">Cambridge Higher SC</span>**	| **Royal College Curepipe, MU** (_2017_)  
-**<span style="color : green">GPA: 3.8</span> ** 
+**<span style="color : green">GPA: 3.8</span>**  
 **<span style="color : #267CB9;">Cambridge SC</span>** | **Royal College Curepipe, MU** (_2015_)  
   
   ---

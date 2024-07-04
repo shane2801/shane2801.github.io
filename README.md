@@ -12,9 +12,9 @@
 
 ## Work Experience
 **Fullstack Web Developer @ Kóryos (_June 2022 - Present_)**
--Managed website development from planning to deployment, using HTML, CSS, JS, and WP.
--Designed and coded responsive, user-friendly interfaces, maintained and optimized websites, ensuring functionality, performance, and database security.
--Here are some websites I have developed: LondonDoctors(https://uld.london), OilTrading(https://highproof-kw.com/), ConsultationCA(https://dallata.ca) 
+- Managed website development from planning to deployment, using HTML, CSS, JS, and WP.
+- Designed and coded responsive, user-friendly interfaces, maintained and optimized websites, ensuring functionality, performance, and database security.
+- Here are some websites I have developed: LondonDoctors(https://uld.london), OilTrading(https://highproof-kw.com/), ConsultationCA(https://dallata.ca) 
 
 **AI Researcher @ University of Birmingham (_April 2022 - April 2024_)**
 - Conducted data collection, processing, and analysis for a novel study evaluating the impact of COVID-19 on aviation companies.

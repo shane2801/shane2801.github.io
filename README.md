@@ -4,10 +4,11 @@
 
 ## Education 🎓
 **<span style="color : #267CB9;">BSc Computer Science</span>** &ensp;|&ensp; **The University of Birmingham,󠁧󠁢󠁥󠁮 UK** (_2022_)  
-&emsp;🔹 **<span style="color : green">Grade: First-Class Honours</span>**  
+&emsp;🔹 **<span style="color : #267CB9;">Grade:</span>** **<span style="color : green">First-Class Honours</span>**  
 **<span style="color : #267CB9;">Cambridge Higher SC</span>** &ensp;|&ensp; **Royal College Curepipe, MU** (_2017_)  
-&emsp;🔹 **<span style="color : green">GPA: 3.8</span>**  
+&emsp;🔹 **<span style="color : #267CB9;">Grade:</span>** **<span style="color : green">3.6 GPA</span>**  
 **<span style="color : #267CB9;">Cambridge SC</span>** &ensp;|&ensp; **Royal College Curepipe, MU** (_2015_)  
+&emsp;🔹 **<span style="color : #267CB9;">Grade:</span>** **<span style="color : green">4.0 GPA</span>**  
   
   ---
 

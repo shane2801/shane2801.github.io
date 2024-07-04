@@ -12,7 +12,8 @@
 
 ## Work Experience
 **Fullstack Web Developer @ Kóryos (_June 2022 - Present_)**
-- Managed website development from planning to deployment, using HTML, CSS, JS, and WP.
+- Managed website development from planning to deployment
+- Used **HTML, CSS, and Javascript** to develop the front end and **Spring, Django, Java, SQL, and Python** for the back end. I also used WordPress and Elementor on some projects.
 - Designed and coded responsive, user-friendly interfaces, maintained and optimized websites, ensuring functionality, performance, and database security.
 - Here are some websites I have developed: LondonDoctors(https://uld.london), OilTrading(https://highproof-kw.com/), ConsultationCA(https://dallata.ca) 
 

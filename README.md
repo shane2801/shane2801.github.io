@@ -13,15 +13,18 @@
   ---
 
 ## Work Experience 💼
-**Fullstack Web Developer @ Kóryos (_June 2022 - Present_)**
+**Fullstack Developer @ Kóryos (_June 2022 - Present_)**
 - Managed website development from planning to deployment
-- Used **HTML, CSS, and Javascript** to develop the front end and **Spring, Django, Java, SQL, and Python** for the back end. I also used WordPress and Elementor on some projects.
+- Used **HTML, CSS, and Javascript** to develop the front end and **Spring, Django, Java, SQL, and Python** for the back end. I also used **WordPress(Elementor, WooCommerce)** on some projects.
+- Project management experience: communicating directly with stakeholders to discuss requirements, mapping a plan and timeframe using Agile, cost, and risk management 
 - Designed and coded responsive, user-friendly interfaces, maintained and optimized websites, ensuring functionality, performance, and database security.
+- Built a worldwide clientele, **Dallata Consultation Company** based in Canada, **Hi-Prof/2T Oil Trading Company** based in Kuwait, **T&M Wellbeing** GP practice from Manchester, **Urgent London Doctors** healthcare from London, **InspireAI** AI consultation company based in Birmingham and many more!
 - Here are some websites I have developed: [UrgentLondonDoctors](https://uld.london), [KuwaitOilTrading](https://highproof-kw.com/), [ConsultationCA](https://dallata.ca) 
 
 **AI Researcher @ University of Birmingham (_April 2022 - April 2024_)**
-- Conducted data collection, processing, and analysis for a novel study evaluating the impact of COVID-19 on aviation companies.
-- Applied unsupervised deep learning approaches to tweets about the top 10 busiest airports to uncover hidden insights
+- Conducted data collection, data pre-processing, and analysis for a novel study evaluating the impact of COVID-19 on aviation companies.
+- Applied unsupervised deep learning approaches to tweets about the top 10 busiest airports to uncover hidden insights.
+- Tech Stack: **Python, SQL, MySQL, PowerBi, Jupyter, Excel**
 
 ---
 
